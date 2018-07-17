@@ -1,3 +1,3 @@
 # websiteproject
 Nsi website project
-this is to test that the git is working fine
+This is a personl website project for the Crenet Tech Labs Internship Scheme, supervised by Enebeli oluchi (weboluchi)
